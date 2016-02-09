@@ -25,7 +25,7 @@
   ],
   "main": "./index.js",
   "dependencies": {
-    "csscomb": "git+https://github.com/csscomb/csscomb.js.git#dev",
+    "csscomb": "git+https://github.com/AanZee/csscomb.js.git#update_csscomb_origin",
     "gulp-util": "^3.0.1",
     "through2": "^0.6.3"
   },
